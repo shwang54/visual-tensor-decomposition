@@ -1,0 +1,10 @@
+matplotlib
+h5py
+numpy==1.11.0
+scipy==0.12.0
+pyyaml
+easydict
+graphviz
+cython==0.26
+IPython
+Pillow==2.3.0

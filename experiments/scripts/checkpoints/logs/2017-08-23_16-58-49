@@ -1,0 +1,6 @@
+Logging output to checkpoints//logs/2017-08-23_16-58-49
+/bin/bash: line 21: ./tools/train_net_my.py: No such file or directory
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
